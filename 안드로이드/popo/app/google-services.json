@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1086231133133",
+    "firebase_url": "https://popo-c79cf.firebaseio.com",
+    "project_id": "popo-c79cf",
+    "storage_bucket": "popo-c79cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086231133133:android:7d6dc23fb7f46391",
+        "android_client_info": {
+          "package_name": "com.example.jean1.splasherj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086231133133-i85sf0h2pp2dcqd8rcqjbcfas91jdj40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jean1.splasherj",
+            "certificate_hash": "5d33aeb3a6e30287520fb57b467dae8354609c48"
+          }
+        },
+        {
+          "client_id": "1086231133133-pud397rq05919a65416arlradkn4dfcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKpwaeLHPpr-WBr5AdhprGmlvqAzYa4Kk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086231133133-pud397rq05919a65416arlradkn4dfcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
